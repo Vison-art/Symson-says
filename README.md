@@ -1,2 +1,2 @@
 # Symson-says
-Here the symson says game code is there
+Here the symson says game code here.

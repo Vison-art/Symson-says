@@ -18,7 +18,7 @@ Welcome to **Symson Says** – the ultimate memory challenge! A game that puts y
 ## 🛠️ Installation & Usage
 1. Clone the repository or download the files.
    ```sh
-   git clone https://github.com/yourusername/symson-says.git
+   git clone https://github.com/Vison-art/Symson-says.git
    ```
 2. Open `index.html` in your favorite web browser.
 3. Click **Start Game** and let the fun begin!
